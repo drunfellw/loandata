@@ -1,4 +1,5 @@
-# loan project
+# Loan Project
+
 
 Introduction:
 The current data set includes details of the 500 people who have opted for loan. Also, the data mentions whether the person has paid back the loan or not and if paid, in how many days they have paid. In this project, we will try to draw few insights on sample Loan data.
